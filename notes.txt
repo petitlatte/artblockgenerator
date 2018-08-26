@@ -1,0 +1,10 @@
+Target Audience: Illustrators/Designers
+
+- Phones/Tablets 
+- Randomly generates ideas and themes.
+- Option to randomize
+- App? (react)
+- 
+
+Other
+- Link to Portfolio
